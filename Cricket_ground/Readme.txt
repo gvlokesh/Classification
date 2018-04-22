@@ -19,5 +19,5 @@ Solution:
 
 Classification using  Naive Bayes,SVM (RBF kernel) and Logistic  classification algorithms.
 
-Libraries used: Numpy,Scipy,Matplotlib  and Sklearn
+Libraries used: Numpy,Scipy,Matplotlib  and Sklearn.
 
